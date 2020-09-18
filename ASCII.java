@@ -9,3 +9,6 @@ public class ascii {
 		System.out.println("The ASCII value of "+ ch + " is: " + ascii);
 	}
 }
+
+
+***Pls let me know, if you find any Doubt.***
