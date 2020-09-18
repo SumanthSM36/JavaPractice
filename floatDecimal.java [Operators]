@@ -6,3 +6,5 @@ public class floatDecimal {
 		System.out.format("%.3f",d);
 	}
 }
+
+***Pls let me know, if you find any Doubt.***
